@@ -15,4 +15,4 @@ Menampilkan dataset Smartphone
 
 ## Phone Reducer
 
-![Phone Reducer](./asset/phoneReducer.png)
+![Phone Reducer](./asset/PhoneReducer.png)
